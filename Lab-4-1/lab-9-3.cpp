@@ -8,7 +8,7 @@ void setup() {
     pinMode(sw1,INPUT);
     pinMode(sw2,INPUT);
     lcd.setCursor(3, 0);
-    lcd.print("SET-UP.EXE");
+    lcd.print("set up");
     delay(2000);
     lcd.clear();
     lcd.setCursor(5, 0);
@@ -23,7 +23,7 @@ void loop() {
         lcd.setCursor(0,0);
         lcd.print("My Name is");
         lcd.setCursor(6,1);
-        lcd.print("|REDfriend");  
+        lcd.print("Nijizzz");  
     }
     else if(digitalRead(sw1)==0 &&digitalRead(sw2)==1) {
         lcd.clear();
