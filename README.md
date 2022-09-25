@@ -1,5 +1,5 @@
 # srv-robot
-Subject: Robot [Sarawittaya]
+Subject: Robot 1 [Sarawittaya]
 ---
-This project is a collection of my work from Sarawittaya School.
-Thanks for visiting this project! (UwU)
+ที่เก็บไฟล์วิชาโปรแกรมหุ่นยนต์ 1 (Robot 1)
+ในภาคเรียนที่ 1 ระดับชั้น มัธยมศึกษาปีที่ 4
